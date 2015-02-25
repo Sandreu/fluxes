@@ -1,0 +1,17 @@
+{
+  "name": "fluxes",
+  "version": "0.0.1",
+  "description": "A flux framework with Event Sourcing.",
+  "main": "src/index.js",
+  "repository": "",
+  "author": "Sandreu <deadyman@free.fr>",
+  "dependencies": {},
+  "devDependencies": {
+    "jest-cli": "^0.4.0"
+  },
+  "jest": {
+    "testPathDirs": [
+      "src/"
+    ]
+  }
+}
